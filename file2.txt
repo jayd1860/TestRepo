@@ -1,1 +1,1 @@
-change 2 common, file2.txt
+change 1 master, file2.txt
